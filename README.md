@@ -1,4 +1,6 @@
 # ips2range
+
+## 方便攻防场景中快速定位目标所拥有的c段或者b段
 ## usage
 ``` 
 ./ips2range c ips.txt 
